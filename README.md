@@ -16,8 +16,8 @@ psql -U postgres
 \c databasename
 CREATE TABLE users (id serial not null primary key, name varchar(255)) not null, email varchar(255) not null, password varchar(255) not null);
 ```
-5: Start Npm from the source (npm start)
-6: Vist (localhost:3000)
+- Start Npm from the source (npm start)
+- Vist (localhost:3000)
 
 ###### Technologies used: Javascript, HTML, CSS, NodeJS.
 ###### Working of the API was tested on Burpsuite.

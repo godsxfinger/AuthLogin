@@ -7,10 +7,10 @@ This is a Project repo for Technical interview at AVENUE SOUND.
 lampp
 
 ## How to install
-1: Clone the repo (git clone https://github.com/aadix420/AuthLogin.git)
-2: Install NPM (sudo apt install npm)
-3: Install all the dependencies (npm install express path body-parser knex)
-4: Setup postgres
+- Clone the repo (git clone https://github.com/aadix420/AuthLogin.git)
+- Install NPM (sudo apt install npm)
+- Install all the dependencies (npm install express path body-parser knex)
+- Setup postgres
 ```
 psql -U postgres
 \c databasename

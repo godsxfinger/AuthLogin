@@ -1,5 +1,5 @@
 # AuthLogin
-This is a Project repo for Technical interview at AVENUE SOUND.
+This is a Project repo for Technical interview at AVENUE SHIT xD.
 
 ![Banner](https://raw.githubusercontent.com/aadix420/AuthLogin/main/public/img/ss.png)
 
